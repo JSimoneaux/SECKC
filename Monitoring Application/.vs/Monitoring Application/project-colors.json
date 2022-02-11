@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd81c011-575a-4f81-a4af-ae1d626b1dec": {
+      "ProjectGuid": "dd81c011-575a-4f81-a4af-ae1d626b1dec",
+      "DisplayName": "Monitoring Application",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

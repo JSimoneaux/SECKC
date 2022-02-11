@@ -1,0 +1,61 @@
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\appsettings.json
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Monitoring Application.staticwebassets.runtime.json
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Monitoring Application.exe
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Monitoring Application.deps.json
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Monitoring Application.runtimeconfig.json
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Monitoring Application.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\ref\Monitoring Application.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Monitoring Application.pdb
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Humanizer.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.csproj.AssemblyReference.cache
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.AssemblyInfoInputs.cache
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.AssemblyInfo.cs
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.csproj.CoreCompileInputs.cache
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.RazorAssemblyInfo.cache
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.RazorAssemblyInfo.cs
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\scopedcss\bundle\Monitoring Application.styles.css
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\scopedcss\projectbundle\Monitoring Application.bundle.scp.css
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.csproj.CopyComplete
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\ref\Monitoring Application.dll
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.pdb
+C:\Users\New User\Documents\seckc\Monitoring Application\Monitoring Application\obj\Debug\net6.0\Monitoring Application.genruntimeconfig.cache

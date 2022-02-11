@@ -1,0 +1,235 @@
+﻿++Solution 'Monitoring Application' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Monitoring Application.sln
+++Monitoring Application
+i:{00000000-0000-0000-0000-000000000000}:Monitoring Application
+++Connected Services 
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:>407
+++Dependencies
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:>406
+++Properties
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\properties\
+++wwwroot
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\
+++Controllers
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\controllers\
+++Models
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\models\
+++Services
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\services\
+++Views
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\
+++appsettings.json
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\appsettings.json
+++Program.cs
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\program.cs
+++No service dependencies discovered
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:>408
+++Analyzers
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:analyzers
+++Frameworks
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:frameworks
+++Packages
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:packages
+++launchSettings.json
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\properties\launchsettings.json
+++css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\css\
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\js\
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\
+++favicon.ico
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\favicon.ico
+++HomeController.cs
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\controllers\homecontroller.cs
+++Entities
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\models\entities\
+++ErrorViewModel.cs
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\models\errorviewmodel.cs
+++Home
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\home\
+++Shared
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\shared\
+++_ViewImports.cshtml
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\_viewstart.cshtml
+++appsettings.Development.json
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:>426
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:>427
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:>428
+++site.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\css\site.css
+++site.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\js\site.js
+++bootstrap
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\
+++jquery
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery\
+++jquery-validation
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\home\index.cshtml
+++Privacy.cshtml
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\shared\error.cshtml
+++dist
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery\dist\
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery\license.txt
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\views\shared\_layout.cshtml.css
+++jquery.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{dd81c011-575a-4f81-a4af-ae1d626b1dec}:c:\users\new user\documents\seckc\monitoring application\monitoring application\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
